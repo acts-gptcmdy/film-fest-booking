@@ -2,11 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="187.38141mm"
-   height="10.993042mm"
-   viewBox="0 0 187.38141 10.993042"
+   width="185.8531mm"
+   height="10.143021mm"
+   viewBox="0 0 185.8531 10.143021"
    version="1.1"
    id="svg5"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,10 +31,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-10.29786,-85.4941)">
+     transform="translate(-11.148947,-85.913747)">
     <path
-       style="fill:#a4a4a4;stroke:#000000;stroke-width:1.83727"
-       d="m 11.802557,91.62574 c 0,0 48.183135,-5.135511 96.545513,-5.211993 51.42907,-0.08133 87.96071,4.783402 87.96071,4.783402 l -1.95765,4.121596 c 0,0 -27.53041,-4.656747 -85.80211,-4.331772 -58.999455,0.329033 -94.497261,4.517137 -94.497261,4.517137 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="m 11.802557,91.62574 c 0,0 43.482674,-5.211993 96.545513,-5.211993 56.40437,0 87.96071,5.312569 87.96071,5.312569 l -1.42848,3.592429 c 0,0 -28.2134,-5.419355 -86.4851,-5.09438 -58.999457,0.329033 -95.401774,5.279745 -95.401774,5.279745 z"
        id="path113"
        sodipodi:nodetypes="csccscc"
        inkscape:export-filename="screen.svg"
